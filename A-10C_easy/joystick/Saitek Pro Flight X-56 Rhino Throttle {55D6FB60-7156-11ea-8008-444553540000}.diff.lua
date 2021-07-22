@@ -27,7 +27,7 @@ local diff = {
 		["d564pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "HOTAS Boat Switch Aft",
