@@ -12,7 +12,7 @@ local diff = {
 			["name"] = "HOTAS Nosewheel Steering Button",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN7",
 				},
 			},
 		},
