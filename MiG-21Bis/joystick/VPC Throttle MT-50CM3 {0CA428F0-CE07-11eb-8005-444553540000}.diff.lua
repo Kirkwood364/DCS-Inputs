@@ -50,10 +50,10 @@ local diff = {
 		["d3094pnilunilcd40vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN86",
+					["key"] = "JOY_BTN31",
 				},
 				[2] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN86",
 				},
 			},
 			["name"] = "Radar Standby",
@@ -138,6 +138,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 				},
+				[2] = {
+					["key"] = "JOY_BTN5",
+				},
 			},
 			["name"] = "Master Mode - Ground",
 		},
@@ -152,10 +155,10 @@ local diff = {
 		["d3184pnilunilcd42vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN8",
 				},
 				[2] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "Weapon Mode - Neutral",

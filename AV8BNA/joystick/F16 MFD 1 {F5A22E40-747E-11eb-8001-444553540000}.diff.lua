@@ -152,22 +152,6 @@ local diff = {
 			},
 			["name"] = "Left MPCD OSB 19",
 		},
-		["dnilp664u1003cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Left MPCD GAIN Increase",
-		},
-		["dnilp665u1003cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Left MPCD GAIN Decrease",
-		},
 		["dnilp666u1004cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -183,38 +167,6 @@ local diff = {
 				},
 			},
 			["name"] = "Left MPCD BRT Decrease",
-		},
-		["dnilp668u1005cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Left MPCD CON Increase",
-		},
-		["dnilp669u1005cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Left MPCD CON Decrease",
-		},
-		["dnilp670u1006cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Left MPCD SYM Increase",
-		},
-		["dnilp671u1006cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Left MPCD SYM Decrease",
 		},
 	},
 }

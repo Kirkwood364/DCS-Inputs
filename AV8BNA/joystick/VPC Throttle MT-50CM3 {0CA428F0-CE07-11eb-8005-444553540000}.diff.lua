@@ -76,13 +76,53 @@ local diff = {
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_Z",
 				},
 			},
 			["name"] = "Nozzle Angle",
 		},
 	},
 	["keyDiffs"] = {
+		["d3080pnilu3080cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Sensor Select FWD: INS, IRMV/EOMV",
+		},
+		["d3081pnilu3081cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Sensor Select AFT: DMT: LST/TV",
+		},
+		["d3082pnilu3082cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Sensor Select LEFT: MAP Center/Decenter",
+		},
+		["d3083pnilu3083cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
+		},
+		["d3084pnilu3084cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
+		},
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -123,38 +163,6 @@ local diff = {
 			},
 			["name"] = "Cage/Uncage",
 		},
-		["d549pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Sensor Select FWD: INS, IRMV/EOMV",
-		},
-		["d550pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Sensor Select AFT: DMT: LST/TV",
-		},
-		["d551pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Sensor Select LEFT: MAP Center/Decenter",
-		},
-		["d552pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
-		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -186,14 +194,6 @@ local diff = {
 				},
 			},
 			["name"] = "A/A Mode DOWN: Gun",
-		},
-		["d566pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
 		},
 		["d568pnilu570cdnilvdnilvpnilvunil"] = {
 			["added"] = {

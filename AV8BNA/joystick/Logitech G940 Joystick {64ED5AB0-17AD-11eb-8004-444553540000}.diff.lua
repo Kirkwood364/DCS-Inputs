@@ -118,22 +118,6 @@ local diff = {
 			},
 			["name"] = "AG Target Undesignate / NWS / FOV Toggle",
 		},
-		["d564pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "A/A Mode AFT: Sidewinder (SEAM)",
-		},
-		["d565pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "A/A Mode DOWN: Gun",
-		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
