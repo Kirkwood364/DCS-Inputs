@@ -16,14 +16,6 @@ local diff = {
 				},
 			},
 		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
 		["a2004cdnil"] = {
 			["name"] = "Thrust",
 			["removed"] = {
@@ -31,6 +23,14 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
+		},
+		["a2101cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Wheel Brake",
 		},
 	},
 	["keyDiffs"] = {

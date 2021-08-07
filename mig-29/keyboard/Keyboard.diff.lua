@@ -375,14 +375,6 @@ local diff = {
 				},
 			},
 		},
-		["d151pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Target view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-				},
-			},
-		},
 		["d152pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Info bar view toggle",
 			["removed"] = {
@@ -421,17 +413,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "H",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d157pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Frame rate counter - Service info",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
 					["reformers"] = {
 						[1] = "RCtrl",
 					},
@@ -479,14 +460,6 @@ local diff = {
 				},
 			},
 		},
-		["d15pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F10 Theater map view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F10",
-				},
-			},
-		},
 		["d160pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "F11 Camera moving backward",
 			["removed"] = {
@@ -528,17 +501,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Back",
-				},
-			},
-		},
-		["d1641pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Restart Mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LShift",
-					},
 				},
 			},
 		},
@@ -644,12 +606,12 @@ local diff = {
 			},
 		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Communication menu",
-			["removed"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "\\",
+					["key"] = "'",
 				},
 			},
+			["name"] = "Communication menu",
 		},
 		["d17pnilu18cdnilvdnilvpnilvunil"] = {
 			["name"] = "Cockpit panel view in",
@@ -730,17 +692,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "F2",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time decelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
 					["reformers"] = {
 						[1] = "LAlt",
 					},
@@ -885,17 +836,6 @@ local diff = {
 					["key"] = "Y",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -1880,17 +1820,6 @@ local diff = {
 				},
 			},
 		},
-		["d426pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Player targets/All targets filter",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
 		["d427pnilu428cdnilvdnilvpnilvunil"] = {
 			["name"] = "Autopilot override",
 			["removed"] = {
@@ -2057,14 +1986,6 @@ local diff = {
 				},
 			},
 		},
-		["d51pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "End mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "Esc",
-				},
-			},
-		},
 		["d522pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Flight - Attack air defenses",
 			["removed"] = {
@@ -2083,25 +2004,6 @@ local diff = {
 					["key"] = "G",
 					["reformers"] = {
 						[1] = "LWin",
-					},
-				},
-			},
-		},
-		["d52pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-				},
-			},
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time accelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LCtrl",
 					},
 				},
 			},
@@ -2276,14 +2178,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "R",
-				},
-			},
-		},
-		["d7pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F1 Cockpit view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F1",
 				},
 			},
 		},
