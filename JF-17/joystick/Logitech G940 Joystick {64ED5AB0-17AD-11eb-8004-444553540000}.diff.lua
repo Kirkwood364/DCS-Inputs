@@ -65,9 +65,6 @@ local diff = {
 		["d10061pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-				[2] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
@@ -76,7 +73,7 @@ local diff = {
 		["d10074pnilu10074cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "T4_Press: IFF Interrogation Start/Stop",
@@ -84,13 +81,45 @@ local diff = {
 		["d10081pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN8",
 				},
 				[2] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "T5_Press: Lock Target",
+		},
+		["dnilp10056unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "S6_Up: Trim Nose Down",
+		},
+		["dnilp10057unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "S6_Down: Trim Nose Up",
+		},
+		["dnilp10058unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "S6_Left: Trim Roll Left",
+		},
+		["dnilp10059unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "S6_Right: Trim Roll Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

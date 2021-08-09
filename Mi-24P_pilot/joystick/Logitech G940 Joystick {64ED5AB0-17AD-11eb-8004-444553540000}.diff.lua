@@ -34,6 +34,22 @@ local diff = {
 		["trimmer"] = 0.5,
 	},
 	["keyDiffs"] = {
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Release weapons",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Fire Weapon",
+		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

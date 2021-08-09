@@ -198,6 +198,14 @@ local diff = {
 				},
 			},
 		},
+		["d357pnilu358cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Drop Countermeasures (ASO and SPS-141)",
+		},
 		["d824pnilunilcd42vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
