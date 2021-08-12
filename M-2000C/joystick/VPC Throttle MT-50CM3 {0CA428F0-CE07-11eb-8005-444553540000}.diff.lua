@@ -33,7 +33,7 @@ local diff = {
 						},
 						["deadzone"] = 0,
 						["invert"] = false,
-						["saturationX"] = 1,
+						["saturationX"] = 0.88,
 						["saturationY"] = 1,
 						["slider"] = true,
 					},
@@ -93,10 +93,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d101pnilunilcdnilvd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Weapons SystemCMD Depress",
+		},
+		["d101pnilunilcdnilvd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Weapons SystemCMD FWD",
+		},
+		["d101pnilunilcdnilvd2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Weapons SystemCMD AFT",
+		},
 		["d110pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
+				},
+				[2] = {
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "CNM MAGIC",
@@ -104,7 +131,7 @@ local diff = {
 		["d112pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "CNM neutral (PCA SELECT)",
@@ -114,13 +141,16 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 				},
+				[2] = {
+					["key"] = "JOY_BTN22",
+				},
 			},
 			["name"] = "CNM AA Gun",
 		},
 		["d136pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Jammer ACTIVATE/Standby Toggle",
@@ -132,30 +162,6 @@ local diff = {
 				},
 			},
 			["name"] = "Master Caution RESET",
-		},
-		["d147pnilu148cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Airbrake ON, else OFF",
-		},
-		["d147pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Airbrake ON",
-		},
-		["d148pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Airbrake OFF",
 		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -180,14 +186,6 @@ local diff = {
 				},
 			},
 			["name"] = "Air Refuel Transfer Switch OFF ",
-		},
-		["d3193pnilu3193cd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN35",
-				},
-			},
-			["name"] = "Air Refuel Transfer Switch ON (NIGHT)",
 		},
 		["d3422pnilu3422cd3vd0vpnilvu1"] = {
 			["added"] = {
@@ -240,10 +238,21 @@ local diff = {
 			},
 			["name"] = "Radar Power EM On",
 		},
+		["d357pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Decoy Program release",
+		},
 		["d358pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN33",
+				},
+				[2] = {
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Decoy PANIC release",
@@ -388,6 +397,14 @@ local diff = {
 			},
 			["name"] = "Autopilot",
 		},
+		["d73pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Airbrake TOGGLE",
+		},
 		["d92pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -397,11 +414,6 @@ local diff = {
 			["name"] = "TDC DEPRESS (Lock Target)",
 		},
 		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
 			["name"] = "View Up slow",
 			["removed"] = {
 				[1] = {
@@ -410,11 +422,6 @@ local diff = {
 			},
 		},
 		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
 			["name"] = "View Down slow",
 			["removed"] = {
 				[1] = {

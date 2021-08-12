@@ -54,6 +54,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d276pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Magic Slave/AG Designate/INS Position Update",
+		},
 		["d569pnilu568cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
