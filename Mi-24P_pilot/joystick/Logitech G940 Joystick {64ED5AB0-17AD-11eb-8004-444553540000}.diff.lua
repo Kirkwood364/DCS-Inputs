@@ -28,8 +28,6 @@ local diff = {
 		},
 	},
 	["ffDiffs"] = {
-		["invertX"] = true,
-		["invertY"] = true,
 		["shake"] = 0,
 		["trimmer"] = 0.5,
 	},
@@ -41,14 +39,6 @@ local diff = {
 				},
 			},
 			["name"] = "Release weapons",
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Fire Weapon",
 		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["added"] = {
