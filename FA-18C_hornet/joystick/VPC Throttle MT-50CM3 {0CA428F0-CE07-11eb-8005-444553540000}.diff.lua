@@ -96,6 +96,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d238pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Pilot Salute",
+		},
 		["d3009pnilu3009cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

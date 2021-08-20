@@ -18,13 +18,13 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk",
 		},
-		["d3040pnilunilcd3vd1vpnilvunil"] = {
+		["d3006pnilunilcd14vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Interconnect Boost Lever to Throttle (toggle)",
+			["name"] = "Gun Safety (toggle)",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {

@@ -113,6 +113,22 @@ local diff = {
 			},
 			["name"] = "Right Throttle up (Idle-Medium-Auto-Full)",
 		},
+		["d3079pnilunilcd6vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Select Weapon Pilot Prev",
+		},
+		["d3079pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Select Weapon Pilot Next",
+		},
 		["d853pnilu853cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
