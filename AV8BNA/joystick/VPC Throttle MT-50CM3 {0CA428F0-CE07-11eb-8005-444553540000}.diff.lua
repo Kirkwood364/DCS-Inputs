@@ -200,6 +200,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 				},
+				[2] = {
+					["key"] = "JOY_BTN30",
+				},
 			},
 			["name"] = "WP Increment",
 		},

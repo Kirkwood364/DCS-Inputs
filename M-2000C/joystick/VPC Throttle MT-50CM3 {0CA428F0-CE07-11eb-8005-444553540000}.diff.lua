@@ -187,6 +187,14 @@ local diff = {
 			},
 			["name"] = "Air Refuel Transfer Switch OFF ",
 		},
+		["d3245pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "AG Gun  SELECT",
+		},
 		["d3422pnilu3422cd3vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
