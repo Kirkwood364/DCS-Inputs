@@ -47,6 +47,14 @@ local diff = {
 				},
 			},
 		},
+		["a3028cd16"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "MAN RNG Knob",
+		},
 		["a3046cd16"] = {
 			["added"] = {
 				[1] = {
