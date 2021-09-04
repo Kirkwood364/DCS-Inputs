@@ -1,21 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -35,6 +19,11 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
 			["name"] = "Target Lock",
 			["removed"] = {
 				[1] = {
@@ -43,6 +32,11 @@ local diff = {
 			},
 		},
 		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 			["name"] = "Weapon Change",
 			["removed"] = {
 				[1] = {
@@ -58,13 +52,37 @@ local diff = {
 				},
 			},
 		},
+		["d349pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Launch Permission Override",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+				[2] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
 			["name"] = "Weapon Fire",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d87pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Electro-Optical System On/Off",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -129,6 +147,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp93u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Trim: Left Wing Down",
+		},
+		["dnilp94u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Trim: Right Wing Down",
+		},
+		["dnilp95u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Trim: Nose Up",
+		},
+		["dnilp96u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Trim: Nose Down",
 		},
 	},
 }

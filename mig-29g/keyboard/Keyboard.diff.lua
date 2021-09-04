@@ -115,14 +115,6 @@ local diff = {
 				},
 			},
 		},
-		["d113pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Cannon",
-			["removed"] = {
-				[1] = {
-					["key"] = "C",
-				},
-			},
-		},
 		["d114pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Flight - Complete mission and RTB",
 			["removed"] = {
@@ -375,14 +367,6 @@ local diff = {
 				},
 			},
 		},
-		["d151pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Target view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-				},
-			},
-		},
 		["d152pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Info bar view toggle",
 			["removed"] = {
@@ -421,17 +405,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "H",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d157pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Frame rate counter - Service info",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
 					["reformers"] = {
 						[1] = "RCtrl",
 					},
@@ -528,17 +501,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Back",
-				},
-			},
-		},
-		["d1641pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Restart Mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LShift",
-					},
 				},
 			},
 		},
@@ -736,17 +698,6 @@ local diff = {
 				},
 			},
 		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time decelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-		},
 		["d192pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Jump into selected aircraft",
 			["removed"] = {
@@ -885,17 +836,6 @@ local diff = {
 					["key"] = "Y",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -1213,33 +1153,6 @@ local diff = {
 					["key"] = "J",
 					["reformers"] = {
 						[1] = "LShift",
-					},
-				},
-			},
-		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard Next Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "]",
-				},
-			},
-		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard Previous Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "[",
-				},
-			},
-		},
-		["d3003pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard current position mark point",
-			["removed"] = {
-				[1] = {
-					["key"] = "K",
-					["reformers"] = {
-						[1] = "RCtrl",
 					},
 				},
 			},
@@ -1880,17 +1793,6 @@ local diff = {
 				},
 			},
 		},
-		["d426pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Player targets/All targets filter",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
 		["d427pnilu428cdnilvdnilvpnilvunil"] = {
 			["name"] = "Autopilot override",
 			["removed"] = {
@@ -2057,14 +1959,6 @@ local diff = {
 				},
 			},
 		},
-		["d51pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "End mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "Esc",
-				},
-			},
-		},
 		["d522pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Flight - Attack air defenses",
 			["removed"] = {
@@ -2083,25 +1977,6 @@ local diff = {
 					["key"] = "G",
 					["reformers"] = {
 						[1] = "LWin",
-					},
-				},
-			},
-		},
-		["d52pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-				},
-			},
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time accelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LCtrl",
 					},
 				},
 			},

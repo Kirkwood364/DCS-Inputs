@@ -86,6 +86,22 @@ local diff = {
 			},
 			["name"] = "Flare Mode Selector - PRGM",
 		},
+		["d3006pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Flap Switch - AUTO",
+		},
+		["d3006pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Flap Switch - FIXED",
+		},
 		["d3007pnilu3007cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -93,6 +109,30 @@ local diff = {
 				},
 			},
 			["name"] = "Flare-Chaff Button",
+		},
+		["d3007pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Speed Brake Switch - OUT",
+		},
+		["d3007pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Speed Brake Switch - OFF",
+		},
+		["d3007pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Speed Brake Switch - IN",
 		},
 		["d3011pnilunilcd15vd-1vpnilvunil"] = {
 			["added"] = {
@@ -125,6 +165,14 @@ local diff = {
 				},
 			},
 			["name"] = "Armament Position Selector Switch (LEFT WINGTIP) - ON/OFF",
+		},
+		["d3019pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Flap Switch - Step Aft",
 		},
 		["d3020pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {

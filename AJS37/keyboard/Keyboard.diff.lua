@@ -63,17 +63,6 @@ local diff = {
 				},
 			},
 		},
-		["d1641pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Restart Mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-		},
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Zoom normal",
 			["removed"] = {
@@ -133,17 +122,6 @@ local diff = {
 					["key"] = "Num.",
 					["reformers"] = {
 						[1] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time decelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LAlt",
 					},
 				},
 			},
@@ -226,17 +204,6 @@ local diff = {
 					["reformers"] = {
 						[1] = "RCtrl",
 						[2] = "RShift",
-					},
-				},
-			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -909,17 +876,6 @@ local diff = {
 					["reformers"] = {
 						[1] = "LAlt",
 						[2] = "LCtrl",
-					},
-				},
-			},
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time accelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LCtrl",
 					},
 				},
 			},
