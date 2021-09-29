@@ -81,6 +81,14 @@ local diff = {
 				},
 			},
 		},
+		["d3009pnilu3009cd21vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Pilot's radio trigger ICS",
+		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
 			["name"] = "Pilot's radio trigger RADIO",
 			["removed"] = {
@@ -96,6 +104,14 @@ local diff = {
 				},
 			},
 			["name"] = "Start-up engine",
+		},
+		["d3022pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN84",
+				},
+			},
+			["name"] = "Low RPM Warning Switch",
 		},
 		["d3038pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
