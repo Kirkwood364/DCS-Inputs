@@ -177,7 +177,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Transmit Switch - UHF",
+			["name"] = "Transmit Switch - UHF (call radio menu)",
 		},
 		["d3029pnilu3029cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -238,10 +238,7 @@ local diff = {
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN81",
-				},
-				[2] = {
-					["key"] = "JOY_BTN79",
+					["key"] = "JOY_BTN80",
 				},
 			},
 			["name"] = "THROTTLE - IDLE",
@@ -249,7 +246,7 @@ local diff = {
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN77",
+					["key"] = "JOY_BTN79",
 				},
 			},
 			["name"] = "Throttle - OFF",
