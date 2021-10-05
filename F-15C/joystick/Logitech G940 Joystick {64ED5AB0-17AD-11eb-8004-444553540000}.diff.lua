@@ -16,48 +16,15 @@ local diff = {
 				},
 			},
 		},
-		["a2033cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 0.5,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "TDC Slew Horizontal",
-		},
-		["a2034cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 0.5,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "TDC Slew Vertical",
-		},
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN8",
+				},
+				[2] = {
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Target Lock",
@@ -68,6 +35,11 @@ local diff = {
 			},
 		},
 		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 			["name"] = "Weapon Change",
 			["removed"] = {
 				[1] = {
