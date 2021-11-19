@@ -63,7 +63,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Show/Hide Menu",
+			["name"] = "AI Helper Interface - SHOW/HIDE",
 		},
 		["d3008pnilu3008cd30vd1vpnilvu0"] = {
 			["added"] = {
@@ -71,7 +71,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Prepare Weapons Systems",
+			["name"] = "\"Prepare Weapons\" command to gunner",
 		},
 		["d3015pnilu3015cd30vd1vpnilvu0"] = {
 			["added"] = {
@@ -79,7 +79,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Select target with ASP-17/Order to fire",
+			["name"] = "\"Designate target\" OR \"Open Fire\" command to gunner",
 		},
 		["d3026pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -87,7 +87,7 @@ local diff = {
 					["key"] = "JOY_BTN49",
 				},
 			},
-			["name"] = "Left Throttle down (Idle-Medium-Auto-Full)",
+			["name"] = "Throttle Lever Left (Idle-Medium-Auto-Full Condition) - DOWN",
 		},
 		["d3026pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -95,7 +95,7 @@ local diff = {
 					["key"] = "JOY_BTN50",
 				},
 			},
-			["name"] = "Left Throttle up (Idle-Medium-Auto-Full)",
+			["name"] = "Throttle Lever Left (Idle-Medium-Auto-Full Condition) - UP",
 		},
 		["d3027pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -103,7 +103,7 @@ local diff = {
 					["key"] = "JOY_BTN52",
 				},
 			},
-			["name"] = "Right Throttle down (Idle-Medium-Auto-Full)",
+			["name"] = "Throttle Lever Right (Idle-Medium-Auto-Full Condition) - DOWN",
 		},
 		["d3027pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -111,7 +111,7 @@ local diff = {
 					["key"] = "JOY_BTN53",
 				},
 			},
-			["name"] = "Right Throttle up (Idle-Medium-Auto-Full)",
+			["name"] = "Throttle Lever Right (Idle-Medium-Auto-Full Condition) - UP",
 		},
 		["d3079pnilunilcd6vd-1vpnilvunil"] = {
 			["added"] = {
@@ -119,7 +119,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Select Weapon Pilot Prev",
+			["name"] = "Weapon Select Knob - PREV POS",
 		},
 		["d3079pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {
@@ -127,7 +127,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Select Weapon Pilot Next",
+			["name"] = "Weapon Select Knob - NEXT POS",
 		},
 		["d853pnilu853cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -135,7 +135,7 @@ local diff = {
 					["key"] = "JOY_BTN51",
 				},
 			},
-			["name"] = "Readjust Free Turbine RPM Switch - Increase",
+			["name"] = "Engine Trim (Turbine RPM) Switch - INC",
 		},
 		["d854pnilu854cdnilvd-1vpnilvu0"] = {
 			["added"] = {
@@ -143,7 +143,7 @@ local diff = {
 					["key"] = "JOY_BTN48",
 				},
 			},
-			["name"] = "Readjust Free Turbine RPM Switch - Decrease",
+			["name"] = "Engine Trim (Turbine RPM) Switch - DEC",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

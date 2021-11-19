@@ -65,7 +65,7 @@ local diff = {
 						["deadzone"] = 0,
 						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.5,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -76,6 +76,16 @@ local diff = {
 		["a3047cd16"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.5,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},

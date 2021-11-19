@@ -46,7 +46,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Trimmer Button",
+			["name"] = "Trim Button - press",
 		},
 		["d97pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -54,7 +54,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Trimmer - Reset",
+			["name"] = "Trim - RESET to default",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -94,7 +94,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -102,7 +102,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -110,7 +110,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -118,7 +118,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }
