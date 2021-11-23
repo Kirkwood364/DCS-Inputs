@@ -73,6 +73,14 @@ local diff = {
 			},
 			["name"] = "\"Prepare Weapons\" command to gunner",
 		},
+		["d3014pnilu3014cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Launch Countermeasures",
+		},
 		["d3015pnilu3015cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

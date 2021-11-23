@@ -124,7 +124,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Trimmer",
+			["name"] = "Trim Control",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
