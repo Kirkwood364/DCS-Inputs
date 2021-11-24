@@ -3,7 +3,7 @@ local diff = {
 		["d3001pnilu3001cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "Petrovitch AI Helper - SHOW/HIDE",

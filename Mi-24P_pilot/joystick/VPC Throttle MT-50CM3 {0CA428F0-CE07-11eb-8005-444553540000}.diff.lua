@@ -60,7 +60,7 @@ local diff = {
 		["d3001pnilu3001cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "AI Helper Interface - SHOW/HIDE",
@@ -68,7 +68,7 @@ local diff = {
 		["d3008pnilu3008cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "\"Prepare Weapons\" command to gunner",
@@ -84,7 +84,7 @@ local diff = {
 		["d3015pnilu3015cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "\"Designate target\" OR \"Open Fire\" command to gunner",
