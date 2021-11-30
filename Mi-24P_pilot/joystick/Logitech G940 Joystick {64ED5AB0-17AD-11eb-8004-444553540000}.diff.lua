@@ -32,10 +32,21 @@ local diff = {
 		["trimmer"] = 0.5,
 	},
 	["keyDiffs"] = {
+		["d2605pnilu2605cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "VR tracker Spyglass Zoom",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
+				},
+				[2] = {
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Release weapons",
