@@ -78,14 +78,6 @@ local diff = {
 			},
 			["name"] = "Gun Trigger",
 		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Weapons FIRE/Bomb Release",
-		},
 		["d92pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

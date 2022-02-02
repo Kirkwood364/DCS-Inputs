@@ -104,6 +104,14 @@ local diff = {
 			},
 			["name"] = "Pilot Salute",
 		},
+		["d3002pnilu3002cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Dispense Button",
+		},
 		["d3009pnilu3009cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -226,6 +234,22 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle (Right) - OFF",
+		},
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Landing Gear Control Handle - UP",
+		},
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Landing Gear Control Handle - DOWN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

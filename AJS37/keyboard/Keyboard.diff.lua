@@ -294,19 +294,6 @@ local diff = {
 				},
 			},
 		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Right",
-				},
-			},
-			["name"] = "Kneeboard Next Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "]",
-				},
-			},
-		},
 		["d3001pnilunilcd26vd1vpnilvunil"] = {
 			["name"] = "Master caution reset",
 			["removed"] = {
@@ -337,46 +324,11 @@ local diff = {
 				},
 			},
 		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Left",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "[",
-				},
-			},
-		},
 		["d3002pnilunilcd17vd-2vpnilvunil"] = {
 			["name"] = "Navigation lights switch",
 			["removed"] = {
 				[1] = {
 					["key"] = "L",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d3002pnilunilcd20vd1vpnilvunil"] = {
-			["name"] = "Radar altimeter switch",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-		},
-		["d3003pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard current position mark point",
-			["removed"] = {
-				[1] = {
-					["key"] = "K",
 					["reformers"] = {
 						[1] = "RCtrl",
 					},
@@ -390,41 +342,6 @@ local diff = {
 					["key"] = "V",
 					["reformers"] = {
 						[1] = "LShift",
-					},
-				},
-			},
-		},
-		["d3005pnilunilcd24vd-0.1vpnilvunil"] = {
-			["name"] = "Master Volume / Sidewinder Tone Down",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "RAlt",
-					},
-				},
-			},
-		},
-		["d3005pnilunilcd24vd0.1vpnilvunil"] = {
-			["name"] = "Master Volume / Sidewinder Tone Up",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "LCtrl",
-					},
-				},
-			},
-		},
-		["d3007pnilunilcd18vd1vpnilvunil"] = {
-			["name"] = "Manual fuel regulator switch",
-			["removed"] = {
-				[1] = {
-					["key"] = "M",
-					["reformers"] = {
-						[1] = "RAlt",
 					},
 				},
 			},
@@ -558,49 +475,6 @@ local diff = {
 					["key"] = "W",
 					["reformers"] = {
 						[1] = "RShift",
-					},
-				},
-			},
-		},
-		["d3201pnilunilcd22vd1vpnilvunil"] = {
-			["name"] = "SLAV SI",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "RShift",
-						[2] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d3210pnilunilcd22vd1vpnilvunil"] = {
-			["name"] = "Pitch gearing Automatic/Landing",
-			["removed"] = {
-				[1] = {
-					["key"] = "T",
-					["reformers"] = {
-						[1] = "RShift",
-						[2] = "RCtrl",
-					},
-				},
-			},
-		},
-		["d3212pnilunilcd5vd1vpnilvunil"] = {
-			["name"] = "Memory mode",
-			["removed"] = {
-				[1] = {
-					["key"] = "M",
-				},
-			},
-		},
-		["d3213pnilunilcd5vd1vpnilvunil"] = {
-			["name"] = "Obstacle detection mode",
-			["removed"] = {
-				[1] = {
-					["key"] = "H",
-					["reformers"] = {
-						[1] = "LCtrl",
 					},
 				},
 			},
@@ -745,18 +619,6 @@ local diff = {
 				},
 			},
 		},
-		["d3511pnilunilcd22vd-1vpnilvunil"] = {
-			["name"] = "TILS rotary layer switch",
-			["removed"] = {
-				[1] = {
-					["key"] = "T",
-					["reformers"] = {
-						[1] = "RAlt",
-						[2] = "RCtrl",
-					},
-				},
-			},
-		},
 		["d352pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Return Camera Base",
 			["removed"] = {
@@ -849,7 +711,7 @@ local diff = {
 			},
 		},
 		["d3723pnilunilcd22vd1vpnilvunil"] = {
-			["name"] = "Landing Gear Up/Down",
+			["name"] = "Landing Gear Up/Down (toggle)",
 			["removed"] = {
 				[1] = {
 					["key"] = "G",
@@ -1183,7 +1045,7 @@ local diff = {
 			},
 		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 			["removed"] = {
 				[1] = {
 					["key"] = ",",
@@ -1194,7 +1056,7 @@ local diff = {
 			},
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 			["removed"] = {
 				[1] = {
 					["key"] = "/",
@@ -1205,7 +1067,7 @@ local diff = {
 			},
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 			["removed"] = {
 				[1] = {
 					["key"] = ".",
@@ -1216,7 +1078,7 @@ local diff = {
 			},
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 			["removed"] = {
 				[1] = {
 					["key"] = ";",

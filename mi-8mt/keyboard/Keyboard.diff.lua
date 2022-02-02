@@ -1,5 +1,13 @@
 local diff = {
 	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Communication menu",
+			["removed"] = {
+				[1] = {
+					["key"] = "\\",
+				},
+			},
+		},
 		["d3008pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -46,6 +54,14 @@ local diff = {
 				},
 			},
 			["name"] = "Generator 2 Switch - ON",
+		},
+		["d3025pnilu3025cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "\\",
+				},
+			},
+			["name"] = "Radio trigger - RADIO",
 		},
 		["d3118pnilunilcd1vd1vpnilvunil"] = {
 			["name"] = "Generator 1 Switch - ON/OFF",

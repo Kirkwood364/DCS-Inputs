@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "COMM Push to talk",
+			["name"] = "COMM Push to talk (call radio menu)",
 		},
 		["d3002pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {

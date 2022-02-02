@@ -47,14 +47,6 @@ local diff = {
 				},
 			},
 		},
-		["a2028cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Radar Antenna Elevation",
-		},
 		["a2033cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -187,14 +179,6 @@ local diff = {
 			},
 			["name"] = "Air Refuel Transfer Switch OFF ",
 		},
-		["d3245pnilunilcd6vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "AG Gun  SELECT",
-		},
 		["d3422pnilu3422cd3vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -210,41 +194,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gun ARMED, else SAFE",
-		},
-		["d3486pnilu3486cd11vd0.33vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN58",
-				},
-			},
-			["name"] = "Radar Power PCH Warm-up",
-		},
-		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN59",
-				},
-			},
-			["name"] = "Radar Power SIL Standby",
-		},
-		["d3486pnilu3486cd11vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN57",
-				},
-				[2] = {
-					["key"] = "JOY_BTN56",
-				},
-			},
-			["name"] = "Radar Power A Off",
-		},
-		["d3486pnilu3486cd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN60",
-				},
-			},
-			["name"] = "Radar Power EM On",
 		},
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -296,22 +245,6 @@ local diff = {
 				},
 			},
 			["name"] = "Nosewheel Steering/IFF Interrogate",
-		},
-		["d572pnilu576cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "Main U/VHF Radio SELECT",
-		},
-		["d573pnilu576cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Aux. UHF Radio SELECT",
 		},
 		["d59pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -436,30 +369,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp88u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "TDC LEFT",
-		},
-		["dnilp89u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "TDC RIGHT",
-		},
-		["dnilp91u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "TDC DOWN",
 		},
 	},
 }

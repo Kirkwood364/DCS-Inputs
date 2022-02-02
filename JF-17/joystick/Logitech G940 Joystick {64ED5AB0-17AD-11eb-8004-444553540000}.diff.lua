@@ -70,6 +70,22 @@ local diff = {
 			},
 			["name"] = "S8: Change Weapons",
 		},
+		["d10076pnilu10076cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "T4_Press: IFF Interrogation Start/Stop",
+		},
+		["d10083pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "T5_Press: Lock Target",
+		},
 		["dnilp10056unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
