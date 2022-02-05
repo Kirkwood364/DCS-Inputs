@@ -139,6 +139,14 @@ local diff = {
 			},
 			["name"] = "CNM AA Gun",
 		},
+		["d1285pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "VTB Viewport ON/OFF",
+		},
 		["d136pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -329,6 +337,22 @@ local diff = {
 				},
 			},
 			["name"] = "V/UHF Channel Knob Inc",
+		},
+		["d6040pnilu6040cdnilvd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "Radar Antenna DOWN",
+		},
+		["d6040pnilu6040cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+			},
+			["name"] = "Radar Antenna UP",
 		},
 		["d62pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
