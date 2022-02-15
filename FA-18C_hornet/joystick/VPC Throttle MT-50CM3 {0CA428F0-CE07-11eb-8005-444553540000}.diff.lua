@@ -84,7 +84,7 @@ local diff = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Vertical Axis",
+			["name"] = "Throttle Designator Controller - VERTICAL AXIS",
 		},
 		["a3044cd13"] = {
 			["added"] = {
@@ -92,7 +92,7 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Horizontal Axis",
+			["name"] = "Throttle Designator Controller - HORIZONTAL AXIS",
 		},
 	},
 	["keyDiffs"] = {
@@ -155,13 +155,56 @@ local diff = {
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
 		},
+		["d3019pnilu3019cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Up",
+		},
+		["d3020pnilu3020cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Down",
+		},
+		["d3021pnilu3021cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Throttle Designator Controller - LEFT",
+		},
+		["d3022pnilu3022cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Throttle Designator Controller - RIGHT",
+		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
+				[2] = {
+					["key"] = "JOY_BTN4",
+				},
 			},
-			["name"] = "Throttle Designator Controller - Depress",
+			["name"] = "Throttle Designator Controller - DEPRESS",
+		},
+		["d3023pnilu3023cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Right MDI PB 13",
 		},
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
 			["added"] = {

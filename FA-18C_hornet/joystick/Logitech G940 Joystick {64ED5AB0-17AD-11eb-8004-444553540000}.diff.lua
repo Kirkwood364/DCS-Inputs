@@ -82,8 +82,11 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN8",
 				},
+				[2] = {
+					["key"] = "JOY_BTN6",
+				},
 			},
-			["name"] = "Throttle Designator Controller - Depress",
+			["name"] = "Throttle Designator Controller - DEPRESS",
 		},
 		["d3031pnilu3031cd13vd1vpnilvu0"] = {
 			["added"] = {
