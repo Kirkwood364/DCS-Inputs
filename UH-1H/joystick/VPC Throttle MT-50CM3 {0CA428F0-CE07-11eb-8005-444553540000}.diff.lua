@@ -87,10 +87,10 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Pilot's radio trigger ICS",
+			["name"] = "Pilot's radio trigger ICS (call radio menu)",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO",
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -113,6 +113,14 @@ local diff = {
 			},
 			["name"] = "Low RPM Warning Switch",
 		},
+		["d3038pnilunilcd9vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "AI Left Burst Switch",
+		},
 		["d3038pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -121,6 +129,14 @@ local diff = {
 			},
 			["name"] = "AI Left ROE Iterate",
 		},
+		["d3039pnilunilcd9vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "AI Operator Burst Switch",
+		},
 		["d3039pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -128,6 +144,14 @@ local diff = {
 				},
 			},
 			["name"] = "AI Operator ROE Iterate",
+		},
+		["d3040pnilunilcd9vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "AI Right Burst Switch",
 		},
 		["d3040pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
