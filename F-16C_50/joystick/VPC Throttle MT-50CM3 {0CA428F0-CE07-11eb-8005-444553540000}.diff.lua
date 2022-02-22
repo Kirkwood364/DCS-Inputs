@@ -173,6 +173,38 @@ local diff = {
 			},
 			["name"] = "CHAFF/FLARE Dispense Button",
 		},
+		["d3014pnilu3014cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Countermeasures Management Switch - Fwd",
+		},
+		["d3015pnilu3015cd16vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Countermeasures Management Switch - Aft",
+		},
+		["d3016pnilu3016cd16vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Countermeasures Management Switch - Left",
+		},
+		["d3017pnilu3017cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Countermeasures Management Switch - Right",
+		},
 		["d3018pnilu3018cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -251,7 +283,7 @@ local diff = {
 					["key"] = "JOY_BTN80",
 				},
 			},
-			["name"] = "THROTTLE - IDLE",
+			["name"] = "Throttle - IDLE",
 		},
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

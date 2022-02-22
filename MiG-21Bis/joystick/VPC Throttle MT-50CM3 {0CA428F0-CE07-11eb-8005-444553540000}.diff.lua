@@ -109,6 +109,14 @@ local diff = {
 			},
 			["name"] = "Locked Beam On",
 		},
+		["d3116pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Airbrakes On/Off",
+		},
 		["d3121pnilunilcd14vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -136,9 +144,6 @@ local diff = {
 		["d3183pnilunilcd42vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-				[2] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
