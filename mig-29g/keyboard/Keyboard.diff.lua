@@ -830,7 +830,7 @@ local diff = {
 			},
 		},
 		["d245pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Info bar coordinate units toggle",
+			["name"] = "Info Bar - TOGGLE COORDINATE INITS",
 			["removed"] = {
 				[1] = {
 					["key"] = "Y",
@@ -1552,7 +1552,7 @@ local diff = {
 			},
 		},
 		["d363pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Clickable mouse cockpit mode On/Off",
+			["name"] = "Clickable Mouse Cockpit Mode - ON/OFF",
 			["removed"] = {
 				[1] = {
 					["key"] = "C",
@@ -2336,7 +2336,7 @@ local diff = {
 			},
 		},
 		["dnilp1032u1034cdnilvdnilvpnilvunil"] = {
-			["name"] = "Throttle Up",
+			["name"] = "Throttle Levers - UP",
 			["removed"] = {
 				[1] = {
 					["key"] = "Num+",
@@ -2344,7 +2344,7 @@ local diff = {
 			},
 		},
 		["dnilp1033u1034cdnilvdnilvpnilvunil"] = {
-			["name"] = "Throttle Down",
+			["name"] = "Throttle Levers - DOWN",
 			["removed"] = {
 				[1] = {
 					["key"] = "Num-",
@@ -2839,7 +2839,7 @@ local diff = {
 			},
 		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 			["removed"] = {
 				[1] = {
 					["key"] = ",",
@@ -2850,7 +2850,7 @@ local diff = {
 			},
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 			["removed"] = {
 				[1] = {
 					["key"] = "/",
@@ -2861,7 +2861,7 @@ local diff = {
 			},
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 			["removed"] = {
 				[1] = {
 					["key"] = ".",
@@ -2872,7 +2872,7 @@ local diff = {
 			},
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 			["removed"] = {
 				[1] = {
 					["key"] = ";",
