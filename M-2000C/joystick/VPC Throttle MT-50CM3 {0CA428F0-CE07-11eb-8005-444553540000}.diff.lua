@@ -203,6 +203,14 @@ local diff = {
 			},
 			["name"] = "Gun ARMED, else SAFE",
 		},
+		["d3467pnilu3467cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN79",
+				},
+			},
+			["name"] = "Throttle Cutoff Unlock",
+		},
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
