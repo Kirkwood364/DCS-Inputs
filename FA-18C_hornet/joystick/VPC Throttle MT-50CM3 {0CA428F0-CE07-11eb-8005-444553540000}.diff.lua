@@ -104,6 +104,14 @@ local diff = {
 			},
 			["name"] = "Pilot Salute",
 		},
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Master Mode Button - A/G",
+		},
 		["d3002pnilu3002cd54vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -148,9 +156,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
-				},
-				[2] = {
-					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
