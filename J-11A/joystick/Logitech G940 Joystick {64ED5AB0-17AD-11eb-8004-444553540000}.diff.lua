@@ -8,48 +8,20 @@ local diff = {
 				},
 			},
 		},
-		["a2033cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 0.45,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "TDC Slew Horizontal",
-		},
-		["a2034cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 0.5,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "TDC Slew Vertical",
-		},
 	},
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Target Lock",
+		},
 		["d101pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "Weapon Change",
@@ -59,26 +31,44 @@ local diff = {
 				},
 			},
 		},
-		["d121pnilunilcdnilvdnilvpnilvunil"] = {
+		["d113pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "ASC Direct Control (Cobra)",
+			["name"] = "Cannon",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 		},
-		["d349pnilunilcdnilvdnilvpnilvunil"] = {
+		["d81pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Launch Permission Override",
+			["name"] = "Salvo Mode",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Weapon Fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
 		},
 		["d87pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Electro-Optical System On/Off",
@@ -129,7 +119,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -137,7 +127,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -145,7 +135,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -153,7 +143,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }

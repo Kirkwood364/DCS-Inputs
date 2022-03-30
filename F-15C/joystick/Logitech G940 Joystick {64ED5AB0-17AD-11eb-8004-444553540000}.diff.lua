@@ -55,6 +55,14 @@ local diff = {
 				},
 			},
 		},
+		["d349pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Launch Permission Override",
+		},
 		["d606pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
