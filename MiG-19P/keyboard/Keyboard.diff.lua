@@ -216,14 +216,6 @@ local diff = {
 				},
 			},
 		},
-		["d151pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Target view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-				},
-			},
-		},
 		["d152pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Info bar view toggle",
 			["removed"] = {
@@ -253,17 +245,6 @@ local diff = {
 					["key"] = "'",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d157pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Frame rate counter - Service info",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-					["reformers"] = {
-						[1] = "RCtrl",
 					},
 				},
 			},
@@ -324,17 +305,6 @@ local diff = {
 					["key"] = "Num/",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d1641pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Restart Mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -503,17 +473,6 @@ local diff = {
 				},
 			},
 		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time decelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-		},
 		["d192pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Jump into selected aircraft",
 			["removed"] = {
@@ -598,23 +557,12 @@ local diff = {
 			},
 		},
 		["d245pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Info bar coordinate units toggle",
+			["name"] = "Info Bar - TOGGLE COORDINATE INITS",
 			["removed"] = {
 				[1] = {
 					["key"] = "Y",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -788,7 +736,7 @@ local diff = {
 			},
 		},
 		["d309pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Auto Start",
+			["name"] = "Automatic Startup Procedure",
 			["removed"] = {
 				[1] = {
 					["key"] = "Home",
@@ -799,7 +747,7 @@ local diff = {
 			},
 		},
 		["d310pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Auto Stop",
+			["name"] = "Automatic Shutdown Procedure",
 			["removed"] = {
 				[1] = {
 					["key"] = "End",
@@ -1136,7 +1084,7 @@ local diff = {
 			},
 		},
 		["d363pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Clickable mouse cockpit mode On/Off",
+			["name"] = "Clickable Mouse Cockpit Mode - ON/OFF",
 			["removed"] = {
 				[1] = {
 					["key"] = "C",
@@ -1289,17 +1237,6 @@ local diff = {
 				},
 			},
 		},
-		["d426pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F8 Player targets/All targets filter",
-			["removed"] = {
-				[1] = {
-					["key"] = "F8",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
 		["d42pnilu49cdnilvdnilvpnilvunil"] = {
 			["name"] = "Glance right",
 			["removed"] = {
@@ -1444,14 +1381,6 @@ local diff = {
 				},
 			},
 		},
-		["d51pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "End mission",
-			["removed"] = {
-				[1] = {
-					["key"] = "Esc",
-				},
-			},
-		},
 		["d522pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Flight - Attack air defenses",
 			["removed"] = {
@@ -1474,14 +1403,6 @@ local diff = {
 				},
 			},
 		},
-		["d52pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-				},
-			},
-		},
 		["d539pnilu540cdnilvdnilvpnilvunil"] = {
 			["name"] = "Right Gun Master Arm",
 			["removed"] = {
@@ -1489,17 +1410,6 @@ local diff = {
 					["key"] = "G",
 					["reformers"] = {
 						[1] = "RAlt",
-					},
-				},
-			},
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time accelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LCtrl",
 					},
 				},
 			},
