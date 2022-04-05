@@ -33,7 +33,7 @@ local diff = {
 						},
 						["deadzone"] = 0,
 						["invert"] = false,
-						["saturationX"] = 0.87,
+						["saturationX"] = 0.92,
 						["saturationY"] = 1,
 						["slider"] = true,
 					},
@@ -134,7 +134,7 @@ local diff = {
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "ECM Dispense FWD: Flares",
@@ -150,7 +150,7 @@ local diff = {
 		["d364pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "ECM Dispense LEFT: Mini Jammer",
