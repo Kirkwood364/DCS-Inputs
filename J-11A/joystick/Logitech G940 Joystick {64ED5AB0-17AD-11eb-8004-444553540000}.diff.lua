@@ -44,13 +44,13 @@ local diff = {
 				},
 			},
 		},
-		["d81pnilunilcdnilvdnilvpnilvunil"] = {
+		["d349pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Salvo Mode",
+			["name"] = "Launch Permission Override",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
