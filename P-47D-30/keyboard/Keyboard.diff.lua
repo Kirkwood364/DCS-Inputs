@@ -22,6 +22,17 @@ local diff = {
 				},
 			},
 		},
+		["d309pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "Start Procedure",
+		},
 		["d835pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

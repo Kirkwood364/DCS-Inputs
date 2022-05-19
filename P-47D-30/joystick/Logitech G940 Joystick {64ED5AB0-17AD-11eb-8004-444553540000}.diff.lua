@@ -16,7 +16,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "COMM Push to talk",
+			["name"] = "COMM Push to talk (call radio menu)",
 		},
 		["d3006pnilunilcd14vd1vpnilvunil"] = {
 			["added"] = {
