@@ -1,5 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3046pnilu3046cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Intercomm menu",
+		},
 		["d3047pnilunilcd24vd1vpnilvunil"] = {
 			["name"] = "ARK On/Off",
 			["removed"] = {

@@ -23,6 +23,17 @@ local diff = {
 			},
 			["name"] = "External Cargo Autounhook",
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d532pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon system control switch Manual/Auto ",
 			["removed"] = {

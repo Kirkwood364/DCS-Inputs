@@ -60,8 +60,17 @@ local diff = {
 				[1] = {
 					["key"] = "\\",
 				},
+				[2] = {
+					["key"] = "OEM102",
+				},
+				[3] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
 			},
-			["name"] = "Radio trigger - RADIO",
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 		},
 		["d3118pnilunilcd1vd1vpnilvunil"] = {
 			["name"] = "Generator 1 Switch - ON/OFF",

@@ -230,17 +230,6 @@ local diff = {
 				},
 			},
 		},
-		["d157pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Frame rate counter - Service info",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-		},
 		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
 			["name"] = "Kneeboard glance view",
 			["removed"] = {
@@ -272,7 +261,7 @@ local diff = {
 			},
 		},
 		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
-			["name"] = "COMM Push to talk",
+			["name"] = "COMM Push to talk (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "\\",
@@ -330,6 +319,17 @@ local diff = {
 					["key"] = "NumEnter",
 				},
 			},
+		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "COMM Communication menu",
 		},
 		["d17pnilu18cdnilvdnilvpnilvunil"] = {
 			["name"] = "Cockpit panel view in",
@@ -410,17 +410,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "F2",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time decelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
 					["reformers"] = {
 						[1] = "LAlt",
 					},
@@ -565,17 +554,6 @@ local diff = {
 					["key"] = "Y",
 					["reformers"] = {
 						[1] = "LAlt",
-					},
-				},
-			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LShift",
 					},
 				},
 			},
@@ -1651,7 +1629,7 @@ local diff = {
 			},
 		},
 		["d3018pnilu3018cd20vd1vpnilvu0"] = {
-			["name"] = "Bomb Emergency Release",
+			["name"] = "Jettison Fuselage Stores",
 			["removed"] = {
 				[1] = {
 					["key"] = "R",
@@ -2316,7 +2294,7 @@ local diff = {
 			},
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Cannons (B)",
+			["name"] = "Fire Cannons - Outer Wing (B)",
 			["removed"] = {
 				[1] = {
 					["key"] = "Space",
@@ -2370,17 +2348,6 @@ local diff = {
 				},
 			},
 		},
-		["d359pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F4 Look back view",
-			["removed"] = {
-				[1] = {
-					["key"] = "F4",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-		},
 		["d360pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Score window",
 			["removed"] = {
@@ -2390,21 +2357,13 @@ local diff = {
 			},
 		},
 		["d363pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Clickable mouse cockpit mode On/Off",
+			["name"] = "Force cursor to show on/off",
 			["removed"] = {
 				[1] = {
 					["key"] = "C",
 					["reformers"] = {
 						[1] = "LAlt",
 					},
-				},
-			},
-		},
-		["d383pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "F4 Arcade View",
-			["removed"] = {
-				[1] = {
-					["key"] = "F4",
 				},
 			},
 		},
@@ -2578,7 +2537,7 @@ local diff = {
 					["key"] = "Num8",
 				},
 			},
-			["name"] = "Camera view up",
+			["name"] = "Camera View - UP",
 			["removed"] = {
 				[1] = {
 					["key"] = "Num8",
@@ -2704,25 +2663,6 @@ local diff = {
 				},
 			},
 		},
-		["d52pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-				},
-			},
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Time accelerate",
-			["removed"] = {
-				[1] = {
-					["key"] = "Z",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-		},
 		["d54pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "One frame mode",
 			["removed"] = {
@@ -2777,7 +2717,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns (A)",
+			["name"] = "Fire Cannons and Machine Guns - Nose & Wing (A)",
 			["removed"] = {
 				[1] = {
 					["key"] = "Space",

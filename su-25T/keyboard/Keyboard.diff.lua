@@ -16,6 +16,17 @@ local diff = {
 				},
 			},
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d78pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Smoke",
 			["removed"] = {

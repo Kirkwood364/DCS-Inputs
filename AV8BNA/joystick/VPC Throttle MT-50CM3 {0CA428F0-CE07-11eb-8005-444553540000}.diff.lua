@@ -126,7 +126,7 @@ local diff = {
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN79",
+					["key"] = "JOY_BTN34",
 				},
 			},
 			["name"] = "Throttle Cutoff",

@@ -1,5 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

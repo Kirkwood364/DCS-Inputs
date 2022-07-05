@@ -71,6 +71,17 @@ local diff = {
 				},
 			},
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d180pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Objects switching direction reverse ",
 			["removed"] = {
@@ -574,18 +585,6 @@ local diff = {
 				},
 			},
 		},
-		["d3408pnilunilcd22vd1vpnilvunil"] = {
-			["name"] = "Parking brake",
-			["removed"] = {
-				[1] = {
-					["key"] = "W",
-					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "LAlt",
-					},
-				},
-			},
-		},
 		["d347pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Return Camera",
 			["removed"] = {
@@ -923,7 +922,7 @@ local diff = {
 			},
 		},
 		["dnilp3305u3305cd22vdnilvp1vu0"] = {
-			["name"] = "Roll centrering (Roll trim reset) ",
+			["name"] = "Roll centrering (Roll trim reset)",
 			["removed"] = {
 				[1] = {
 					["key"] = "O",

@@ -1,5 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d3026pnilunilcd8vd1vpnilvunil"] = {
 			["name"] = "Pitot Heater ON",
 			["removed"] = {

@@ -12,6 +12,17 @@ local diff = {
 			},
 			["name"] = "ASC Direct Control (Cobra)",
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "OEM102",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Fire",
 			["removed"] = {
