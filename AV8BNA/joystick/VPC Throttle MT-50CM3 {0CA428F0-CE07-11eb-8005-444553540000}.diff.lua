@@ -134,7 +134,7 @@ local diff = {
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "ECM Dispense FWD: Flares",
@@ -142,7 +142,7 @@ local diff = {
 		["d358pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "ECM Dispense AFT: Chaff",
@@ -150,7 +150,7 @@ local diff = {
 		["d364pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "ECM Dispense LEFT: Mini Jammer",

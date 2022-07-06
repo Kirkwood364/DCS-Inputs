@@ -115,7 +115,7 @@ local diff = {
 		["d3002pnilu3002cd54vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Dispense Button",
@@ -238,7 +238,7 @@ local diff = {
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Speed Brake Switch - EXTEND",
@@ -246,7 +246,7 @@ local diff = {
 		["d3035pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Speed Brake Switch - RETRACT",
