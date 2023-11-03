@@ -73,18 +73,10 @@ local diff = {
 		["d3002pnilunilcd13vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Flare Mode Selector - SINGLE",
-		},
-		["d3002pnilunilcd13vd0.2vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Flare Mode Selector - PRGM",
 		},
 		["d3006pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -105,7 +97,7 @@ local diff = {
 		["d3007pnilu3007cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Flare-Chaff Button",

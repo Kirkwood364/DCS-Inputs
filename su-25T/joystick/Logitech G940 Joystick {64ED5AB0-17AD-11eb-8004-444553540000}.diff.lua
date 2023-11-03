@@ -60,15 +60,18 @@ local diff = {
 							[1] = 0.5,
 						},
 						["deadzone"] = 0.05,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.5,
+						["saturationY"] = 0.1,
 						["slider"] = false,
 					},
 					["key"] = "JOY_SLIDER2",
 				},
 			},
-			["name"] = "I-251 Slew Horizontal",
+			["name"] = "IT-23 targeting display - slew right/left",
 		},
 		["a2034cdnil"] = {
 			["added"] = {
@@ -78,15 +81,18 @@ local diff = {
 							[1] = 0.5,
 						},
 						["deadzone"] = 0.05,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.5,
+						["saturationY"] = 0.1,
 						["slider"] = false,
 					},
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "I-251 Slew Vertical",
+			["name"] = "IT-23 targeting display - slew up/down",
 		},
 	},
 	["keyDiffs"] = {
@@ -208,7 +214,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -216,7 +222,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -224,7 +230,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -232,7 +238,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }

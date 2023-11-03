@@ -27,14 +27,6 @@ local diff = {
 				},
 			},
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "7",
-				},
-			},
-			["name"] = "Active Pause",
-		},
 	},
 }
 return diff

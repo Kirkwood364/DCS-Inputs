@@ -17,7 +17,7 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Flight Control Rudder",
+			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
@@ -73,6 +73,14 @@ local diff = {
 			},
 			["name"] = "External Cargo Autounhook",
 		},
+		["d3001pnilu3001cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "External Cargo Pilot Unhook",
+		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -80,6 +88,17 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d3006pnilu3006cd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+				[2] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Flare Dispense Button",
 		},
 		["d3009pnilu3009cd21vd0.5vpnilvu0"] = {
 			["added"] = {
@@ -112,6 +131,30 @@ local diff = {
 				},
 			},
 			["name"] = "Low RPM Warning Switch",
+		},
+		["d3026pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "AutoPilot",
+		},
+		["d3028pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Autopilot ATTITUDE HOLD",
+		},
+		["d3029pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Autopilot LEVEL FLIGHT",
 		},
 		["d3038pnilunilcd9vd0.1vpnilvunil"] = {
 			["added"] = {

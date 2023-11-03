@@ -150,18 +150,10 @@ local diff = {
 		["d136pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Jammer ACTIVATE/Standby Toggle",
-		},
-		["d144pnilu144cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN40",
-				},
-			},
-			["name"] = "Master Caution RESET",
+			["name"] = "Jammer PCM Override Toggle",
 		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -214,7 +206,7 @@ local diff = {
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Decoy Program release",
@@ -222,29 +214,10 @@ local diff = {
 		["d358pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-				[2] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Decoy PANIC release",
-		},
-		["d389pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN42",
-				},
-			},
-			["name"] = "Altitude Hold Mode",
-		},
-		["d429pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Approach Hold Mode",
 		},
 		["d430pnilu431cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -261,14 +234,6 @@ local diff = {
 				},
 			},
 			["name"] = "Nosewheel Steering/IFF Interrogate",
-		},
-		["d59pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN43",
-				},
-			},
-			["name"] = "Selected Altitude Hold Mode",
 		},
 		["d6020pnilunilcdnilvd-1vpnilvunil"] = {
 			["added"] = {
@@ -361,14 +326,6 @@ local diff = {
 				},
 			},
 			["name"] = "Radar Antenna UP",
-		},
-		["d62pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN41",
-				},
-			},
-			["name"] = "Autopilot",
 		},
 		["d73pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

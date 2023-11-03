@@ -16,6 +16,14 @@ local diff = {
 				},
 			},
 		},
+		["d1630pnilu1631cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "MOUSE_BTN4",
+				},
+			},
+			["name"] = "Rangefinder Activate",
+		},
 	},
 }
 return diff

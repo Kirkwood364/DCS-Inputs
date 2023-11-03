@@ -54,6 +54,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d2605pnilu2605cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "VR tracker Spyglass Zoom",
+		},
 		["d3005pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

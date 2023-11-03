@@ -45,7 +45,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Fire Cannons (B)",
+			["name"] = "Fire Cannons - Outer Wing (B)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -58,7 +58,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Fire Machineguns (A)",
+			["name"] = "Fire Cannons and Machine Guns - Nose & Wing (A)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

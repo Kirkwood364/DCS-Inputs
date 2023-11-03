@@ -14,7 +14,7 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Trim Elevator",
+			["name"] = "Trim Elevator - axis",
 		},
 		["a2023cdnil"] = {
 			["added"] = {
@@ -22,7 +22,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Trim Aileron",
+			["name"] = "Trim Aileron - axis",
 		},
 		["a2024cdnil"] = {
 			["added"] = {

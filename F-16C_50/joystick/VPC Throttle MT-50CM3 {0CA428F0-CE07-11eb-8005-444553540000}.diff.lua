@@ -165,14 +165,6 @@ local diff = {
 			},
 			["name"] = "Display Management Switch - Right",
 		},
-		["d3011pnilu3011cd32vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "CHAFF/FLARE Dispense Button",
-		},
 		["d3014pnilu3014cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -256,7 +248,7 @@ local diff = {
 		["d3031pnilu3031cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "SPD BRK Switch - Aft/EXTEND (Momentary)",
@@ -264,7 +256,7 @@ local diff = {
 		["d3031pnilunilcd16vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "SPD BRK Switch - Fwd/RETRACT",
@@ -360,7 +352,7 @@ local diff = {
 		["dnilp3040unilcd16vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "MAN RNG Knob - CW",
@@ -368,7 +360,7 @@ local diff = {
 		["dnilp3041unilcd16vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "MAN RNG Knob - CCW",

@@ -10,6 +10,11 @@ local diff = {
 				},
 			},
 			["name"] = "Communication menu",
+			["removed"] = {
+				[1] = {
+					["key"] = "\\",
+				},
+			},
 		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["name"] = "Kneeboard Next Page",
@@ -37,6 +42,14 @@ local diff = {
 					},
 				},
 			},
+		},
+		["d573pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "\\",
+				},
+			},
+			["name"] = "COMM AFT: Select COMM 2",
 		},
 		["dnilp539u543cdnilvdnilvpnilvunil"] = {
 			["added"] = {

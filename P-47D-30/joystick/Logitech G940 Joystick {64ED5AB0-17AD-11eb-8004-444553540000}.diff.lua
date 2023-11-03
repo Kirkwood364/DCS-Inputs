@@ -18,14 +18,6 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk (call radio menu)",
 		},
-		["d3006pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Gun Safety (toggle)",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -112,6 +112,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
+				[2] = {
+					["key"] = "JOY_BTN18",
+				},
 			},
 			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
 		},
@@ -122,6 +125,55 @@ local diff = {
 				},
 			},
 			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
+		},
+		["d3224pnilu3224cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Right MPCD OSB 01",
+		},
+		["d3226pnilu3226cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+				[2] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Right MPCD OSB 03",
+		},
+		["d3227pnilu3227cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+				[2] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Right MPCD OSB 04",
+		},
+		["d3296pnilu3296cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+				[2] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "UFC Target-Of-Opportunity Function Button",
+		},
+		["d3314pnilu3314cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "UFC Enter Button",
 		},
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
@@ -195,16 +247,21 @@ local diff = {
 			},
 			["name"] = "A/A Mode DOWN: Gun",
 		},
-		["d568pnilu570cdnilvdnilvpnilvunil"] = {
+		["d572pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-				[2] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "WP Increment",
+			["name"] = "COMM FWD: Select COMM 1",
+		},
+		["d573pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "COMM AFT: Select COMM 2",
 		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -213,38 +270,6 @@ local diff = {
 				},
 			},
 			["name"] = "TDC Down (Action Position)",
-		},
-		["dnilp539u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "TDC Forward",
-		},
-		["dnilp540u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "TDC Aft",
-		},
-		["dnilp541u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "TDC Left",
-		},
-		["dnilp542u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "TDC Right",
 		},
 	},
 }

@@ -741,14 +741,6 @@ local diff = {
 				},
 			},
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Scroll",
-				},
-			},
-			["name"] = "Active Pause",
-		},
 		["d851pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Show controls indicator",
 			["removed"] = {
@@ -922,7 +914,7 @@ local diff = {
 			},
 		},
 		["dnilp3305u3305cd22vdnilvp1vu0"] = {
-			["name"] = "Roll centrering (Roll trim reset)",
+			["name"] = "Roll centrering (Roll trim reset) ",
 			["removed"] = {
 				[1] = {
 					["key"] = "O",

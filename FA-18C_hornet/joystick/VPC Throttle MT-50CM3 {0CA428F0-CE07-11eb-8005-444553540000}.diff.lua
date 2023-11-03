@@ -104,6 +104,22 @@ local diff = {
 			},
 			["name"] = "Pilot Salute",
 		},
+		["d3001pnilunilcd66vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "ALQ-165 ECM Mode Switch - STBY",
+		},
+		["d3001pnilunilcd66vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "ALQ-165 ECM Mode Switch - XMIT",
+		},
 		["d3002pnilu3002cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

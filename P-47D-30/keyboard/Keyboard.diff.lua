@@ -11,28 +11,6 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
-		["d3026pnilunilcd8vd1vpnilvunil"] = {
-			["name"] = "Pitot Heater ON",
-			["removed"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-		},
-		["d3028pnilunilcd8vd1vpnilvunil"] = {
-			["name"] = "Oil Dilution ON",
-			["removed"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-		},
 		["d309pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

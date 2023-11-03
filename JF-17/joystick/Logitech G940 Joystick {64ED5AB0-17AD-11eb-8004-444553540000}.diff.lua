@@ -78,10 +78,10 @@ local diff = {
 			},
 			["name"] = "T4_Press: IFF Interrogation Start/Stop",
 		},
-		["d10083pnilunilcdnilvdnilvpnilvunil"] = {
+		["d10083pnilu10083cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "T5_Press: Lock Target",

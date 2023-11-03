@@ -775,28 +775,6 @@ local diff = {
 				},
 			},
 		},
-		["d3001pnilunilcd6vd0.2vpnilvunil"] = {
-			["name"] = "Fuel Selector Valve Open",
-			["removed"] = {
-				[1] = {
-					["key"] = "4",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-		},
-		["d3001pnilunilcd6vd0.3vpnilvunil"] = {
-			["name"] = "Fuel Selector Valve FWD Tank Closed",
-			["removed"] = {
-				[1] = {
-					["key"] = "3",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-		},
 		["d3001pnilunilcd6vd0vpnilvunil"] = {
 			["name"] = "Fuel Selector Valve OFF",
 			["removed"] = {
@@ -2072,6 +2050,17 @@ local diff = {
 				},
 			},
 		},
+		["d309pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "Start Procedure",
+		},
 		["d310pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Stop Procedure",
 			["removed"] = {
@@ -2357,7 +2346,7 @@ local diff = {
 			},
 		},
 		["d363pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Force cursor to show on/off",
+			["name"] = "Clickable Mouse Cockpit Mode - ON/OFF",
 			["removed"] = {
 				[1] = {
 					["key"] = "C",

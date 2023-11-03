@@ -54,6 +54,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d2605pnilu2605cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "VR tracker Spyglass Zoom",
+		},
 		["d276pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -77,6 +85,14 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Trigger",
+		},
+		["d6033pnilu6033cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "MiCRoB/Trigger 2nd Stage",
 		},
 		["d92pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

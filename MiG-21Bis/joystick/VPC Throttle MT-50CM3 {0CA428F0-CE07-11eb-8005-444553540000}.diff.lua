@@ -144,7 +144,7 @@ local diff = {
 		["d3183pnilunilcd42vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Master Mode - Ground",
@@ -152,7 +152,7 @@ local diff = {
 		["d3183pnilunilcd42vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Master Mode - Air",

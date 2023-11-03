@@ -17,7 +17,7 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Flight Control Rudder",
+			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
@@ -76,7 +76,10 @@ local diff = {
 		["d3014pnilu3014cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN1",
+				},
+				[2] = {
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Launch Countermeasures",
@@ -144,6 +147,38 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Select Knob - NEXT POS",
+		},
+		["d3108pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "AI Panel Show/Hide",
+		},
+		["d3110pnilunilcd6vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "AI Gunner Burst Switch",
+		},
+		["d3110pnilunilcd6vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "AI Gunner ROE Iterate",
+		},
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Night Vision Goggles",
 		},
 		["d853pnilu853cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -224,6 +259,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp840unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - INC",
+		},
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - DEC",
 		},
 	},
 }
